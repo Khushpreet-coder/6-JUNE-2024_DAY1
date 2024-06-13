@@ -48,7 +48,7 @@ DAY-6(12 JUNE 2024)
     
     c) Hack_Camera Tool
 
-DAY-5(11 JUNE 2024)
+DAY-7(11 JUNE 2024)
 
     a) Perform DOS Attack (XERXES TOOL)
     
