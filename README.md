@@ -36,7 +36,7 @@ DAY-5(11 JUNE 2024)
   
     a) NMap Lab
   
-    b) Social Engineering Tool (Zshipher tool)
+    b) Social Engineering Tool (Zphisher tool)
   
     c) Fundamental of Networking
 
