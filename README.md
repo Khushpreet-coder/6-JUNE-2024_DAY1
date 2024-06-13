@@ -40,3 +40,19 @@ DAY-5(11 JUNE 2024)
   
     c) Fundamental of Networking
 
+DAY-6(12 JUNE 2024)
+     
+    a) TryHackMe LAB- Cryptography for Dummies & Crack the Hash
+   
+    b) Hashing( Encryption, Decryption)
+    
+    c) Hack_Camera Tool
+
+DAY-5(11 JUNE 2024)
+
+    a) Perform DOS Attack (XERXES TOOL)
+    
+    b) Erisphisher Tool
+    
+    
+   
