@@ -48,11 +48,20 @@ DAY-6(12 JUNE 2024)
     
     c) Hack_Camera Tool
 
-DAY-7(11 JUNE 2024)
+DAY-7(13 JUNE 2024)
 
     a) Perform DOS Attack (XERXES TOOL)
     
     b) Erisphisher Tool
-    
-    
+
+DAY-8(14 JUNE 2024)
+
+    a) Explain how to perform Price tempering using Burp suite 
+
+ DAY-9(15 JUNE 2024)   
+       
+    Revision
    
+ DAY-10(17 JUNE 2024)
+
+    a) Perform Price Tempering using Burp suite
