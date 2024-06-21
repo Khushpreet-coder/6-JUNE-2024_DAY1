@@ -65,3 +65,23 @@ DAY-8(14 JUNE 2024)
  DAY-10(17 JUNE 2024)
 
     a) Perform Price Tempering using Burp suite
+
+ DAY-11(18 JUNE 2024)
+
+    a) What is SQL.
+
+ DAY-12(19 JUNE 2024)  
+
+    a) What is Cybersecurity.Basic of Cybersecurity.
+    b) Types of hackers.
+    c) Career in Cybersecurity TryHackMe Lab.
+
+  DAY-13(20 JUNE 2024)  
+
+    a) Networking Fundamentals
+    b) Information Gathering
+
+  DAY-14(21 JUNE 2024)   
+   
+    a) Shows How Wifi Attack Works.
+    b) Shows working of SQL in bdfood website.
