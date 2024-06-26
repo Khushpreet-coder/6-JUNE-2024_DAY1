@@ -85,3 +85,24 @@ DAY-8(14 JUNE 2024)
    
     a) Shows How Wifi Attack Works.
     b) Shows working of SQL in bdfood website.
+
+  DAY-15(22 JUNE 2024)   
+    
+    a) capture the flag TryHackMe Lab
+    b) Test of DOS Attack
+
+  DAY-16(24 JUNE 2024)   
+
+    a) Shows How MITM work 
+
+  DAY-17(25 JUNE 2024)   
+
+    a) Shows How Report Generate on Burp Suite
+    b) Camphish Tool 
+    c) Revision of Tools 
+
+  DAY-18(26 JUNE 2024)   
+ 
+    a) Perform Report Generation on Burp Suite 
+    b) Linux File System Analysis TryHackMe lab
+
