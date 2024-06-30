@@ -106,3 +106,11 @@ DAY-8(14 JUNE 2024)
     a) Perform Report Generation on Burp Suite 
     b) Linux File System Analysis TryHackMe lab
 
+  DAY-20(28 JUNE 2024) 
+
+    a) Metasploitable TryHackMe Lab
+
+  DAY-21(29 JUNE 2024)   
+
+    a) OSINT Explanation
+    b) OhSINT TryHackMe Lab
