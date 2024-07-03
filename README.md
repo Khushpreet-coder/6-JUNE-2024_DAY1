@@ -114,3 +114,9 @@ DAY-8(14 JUNE 2024)
 
     a) OSINT Explanation
     b) OhSINT TryHackMe Lab
+
+  DAY-22(2 July 2024)
+
+    a) Perform SQL Injection on Bdfoods website
+    b) SQL TryHackMe Lab
+    
