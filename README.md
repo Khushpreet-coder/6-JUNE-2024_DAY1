@@ -106,17 +106,33 @@ DAY-8(14 JUNE 2024)
     a) Perform Report Generation on Burp Suite 
     b) Linux File System Analysis TryHackMe lab
 
-  DAY-20(28 JUNE 2024) 
+  DAY-19(28 JUNE 2024) 
 
     a) Metasploitable TryHackMe Lab
 
-  DAY-21(29 JUNE 2024)   
+  DAY-20(29 JUNE 2024)   
 
     a) OSINT Explanation
     b) OhSINT TryHackMe Lab
 
-  DAY-22(2 July 2024)
+  DAY-21(2 July 2024)
 
     a) Perform SQL Injection on Bdfoods website
     b) SQL TryHackMe Lab
+
+  DAY-22(4 July 2024)
     
+    a) Online revision class
+
+  DAY-23(5 July 2024)
+
+    a) Wifi Hacking commands
+    b) Revision
+
+  DAY-24(6 July 2024)   
+
+    a) Project Explanation
+
+  DAY-25(13 July 2024)
+
+    a) CTF Competition
